@@ -1,16 +1,14 @@
 ![logo](https://github.com/Tanay-dev/Tanay-dev/blob/main/banner%20(1).png)
 <h1 align="center">Hi 👋, I'm TanayDev</h1>
-<h3 align="center">A passionate Java and Web developer from India</h3>
+<h3 align="center">A passionate Embedded Firmware Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanay-dev&label=Profile%20views&color=0e75b6&style=flat" alt="tanay-dev" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning to **build my own Library on STM32CubeIDE**
 
 - 📫 Reach me at **tcvedi1973@gmail.com**
-
-- ⚡ Fun fact **Your phone has more germs than a public loo!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
